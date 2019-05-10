@@ -3,3 +3,5 @@ This is the file for Mercury, an even hotter planet
 I've added another line to cause a conflict
 
 Things are melting here. Cannot stay long.
+
+This line exists solely to create the error
